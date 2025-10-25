@@ -1,0 +1,1 @@
+# Copia el código del traductor (el primer artifact React que creamos)
